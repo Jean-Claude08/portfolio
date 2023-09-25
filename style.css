@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 4em;
+}
+
+p {
+    margin: 2em 0;
+}
+
+image {
+    width: 40%;
+    max-width: 90%;
+}
