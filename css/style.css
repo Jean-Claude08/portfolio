@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #6c757d;
   text-align: left;
-  background-color: #ffffff;
+  background-color: whitesmoke;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -9744,7 +9744,7 @@ h6,
 }
 
 .text-stroke-header {
-  -webkit-text-stroke: 3px #ffffff;
+  -webkit-text-stroke: 3px #86cfda;
   color: transparent;
 }
 
